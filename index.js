@@ -23,4 +23,4 @@ client.once('ready', () => {
 
 client.on('error', console.error);
 
-client.login(process.env.token);
+client.login('ODM4MzExOTQ4NTY2OTIxMjE2.YI5Q1w.qLKxtZYkdBBUU14xTATje86gLPQ');
